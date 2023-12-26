@@ -8,3 +8,6 @@ numpy==1.19.4<br />
 pytorch==1.12.0<br />
 tensorboard==0.6.0<br />
 gym==0.21.0<br />
+<br />
+To install gym 0.21.0:<br />
+pip install setuptools==65.5.0 "wheel<0.40.0"<br />
